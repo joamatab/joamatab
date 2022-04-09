@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi I'm Joaquin 👋
+
+
+Im a hardware engineer at Google X bringing affordable internet for developing countries.
+
+- 🔭 I’m currently working on [gdsfactory](https://github.com/gdsfactory/gdsfactory/)
+- 🌱 I love open source tools for layout, simulation and data analysis
+- 👯 I’m always looking for [awesome photonics tools](https://github.com/joamatab/awesome_photonics)
+
 
 <!--
 **joamatab/joamatab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
