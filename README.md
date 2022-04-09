@@ -3,8 +3,8 @@
 
 Im a hardware engineer at Google X bringing affordable internet for developing countries.
 
-- 🔭 I’m currently working on [gdsfactory](https://github.com/gdsfactory/gdsfactory/)
-- 🌱 I love open source tools for layout, simulation and data analysis
+- 🔭 I’m currently working on [projet Taara](https://x.company/projects/taara/)
+- 🌱 I love open source tools for layout, simulation and data analysis, such as [gdsfactory](https://github.com/gdsfactory/gdsfactory/)
 - 👯 I’m always looking for [awesome photonics tools](https://github.com/joamatab/awesome_photonics)
 
 
