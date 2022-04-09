@@ -1,7 +1,7 @@
 ### Hi I'm Joaquin 👋
 
 
-Im a hardware engineer at Google X bringing affordable internet for developing countries.
+Im a hardware engineer at Google X bringing affordable internet to developing countries.
 
 - 🔭 I’m currently working on [projet Taara](https://x.company/projects/taara/)
 - 🌱 I love open source tools for layout, simulation and data analysis, such as [gdsfactory](https://github.com/gdsfactory/gdsfactory/)
