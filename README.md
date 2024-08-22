@@ -1,12 +1,10 @@
 ### Hi I'm Joaquin 👋
 
+Im a chip designer and the developer of [GDSFactory]([url](https://gdsfactory.github.io/gdsfactory/))
 
-Im a hardware engineer at Google X bringing affordable internet to developing countries.
-
-- 🔭 I’m currently working on [project Taara](https://x.company/projects/taara/)
-- 🌱 I love open source tools for layout, simulation and data analysis, such as [gdsfactory](https://github.com/gdsfactory/gdsfactory/)
-- 👯 I’m always looking for [awesome photonics tools](https://github.com/joamatab/awesome_photonics)
-
+- 🔭 Currently, I’m working on several open-source projects, including GDSFactory, KLayout, SAX, and Femwell.
+- 👯 I’m always on the lookout for [awesome hardware tools](https://github.com/joamatab/awesome_photonics)
+- 🌱 I’m passionate about open-source tools for design, simulation, and data analysis, such as [gdsfactory](https://github.com/gdsfactory/gdsfactory/)
 
 <!--
 **joamatab/joamatab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
