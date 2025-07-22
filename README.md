@@ -2,7 +2,7 @@
 
 Im a chip designer and the developer of [GDSFactory]([url](https://gdsfactory.github.io/gdsfactory/))
 
-- 🔭 Currently, I’m working on several open-source projects, including GDSFactory, KLayout, SAX, and Femwell.
+- 🔭 Currently, I’m working on several open-source projects, including [GDSFactory]([url](https://gdsfactory.com/)), KLayout, SAX, and Femwell.
 - 👯 I’m always on the lookout for [awesome hardware tools](https://github.com/joamatab/awesome_photonics)
 - 🌱 I’m passionate about open-source tools for design, simulation, and data analysis, such as [gdsfactory](https://github.com/gdsfactory/gdsfactory/)
 
